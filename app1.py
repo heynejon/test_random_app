@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import webbrowser
 
-# API endpoint for random fun facts
+# API endpoint for random fun facts NEW UPDATE
 API_URL = "https://uselessfacts.jsph.pl/random.json?language=en"
 
 def fetch_fun_fact():
